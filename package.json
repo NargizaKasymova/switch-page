@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node js course from youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node http.js",
+    "dev": "nodemon http.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
